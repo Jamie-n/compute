@@ -1,1 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8710946&assignment_repo_type=AssignmentRepo)
+![Tests](https://github.com/hudds-awp-cht2520/assignment-02-Jamie-n/actions/workflows/compute.yml/badge.svg)
+
+## Project Description
+
+Compute is an eCommerce platform which facilitates the sale of IT equipment, peripherals and components. This was developed as a portfolio project used to experiment with different web technologies
+

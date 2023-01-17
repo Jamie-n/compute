@@ -2,5 +2,7 @@
 
 ## Project Description
 
-Compute is an eCommerce platform which facilitates the sale of IT equipment, peripherals and components. This was developed as a portfolio project used to experiment with different web technologies
+Compute is an eCommerce platform which facilitates the sale of IT equipment, peripherals and components. 
+
+This was developed as part of a university assignment and portfolio project used to experiment with different web technologies.
 
